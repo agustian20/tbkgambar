@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guess The Picture</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_batang">TEBAK GAMBAR</string>
+    <string name="title_activity_belasan">SOAL 2</string>
+    <string name="title_activity_darah">SOAL 3</string>
+    <string name="title_activity_jembatan">SOAL 4</string>
+    <string name="title_activity_kamera">SOAL 5</string>
+    <string name="title_activity_khusus">SOAL 6</string>
+    <string name="title_activity_sedot">SOAL 7</string>
+    <string name="title_activity_solidaritas">SOAL 8</string>
+    <string name="title_activity_teko">SOAL 9</string>
+    <string name="title_activity_tuang">SOAL 10</string>
+    <string name="title_activity_tamat">Tamat</string>
+
+</resources>
